@@ -309,22 +309,24 @@ def export_data(df, dept_summary, cat_summary, rec_summary, consol, metadata):
     print(f"  - Rows: {len(df)}")
     print(f"  - Total spend: ${metadata['total_spend']:,.2f}")
 
-    # Export summaries
+    # Export summaries with semicolon delimiter
     if not dept_summary.empty:
-        dept_summary.to_csv(OUTPUT_BY_DEPARTMENT, index=False)
+        dept_summary.to_csv(OUTPUT_BY_DEPARTMENT, index=False, sep=';', encoding='utf-8')
         print(f"✓ Exported department summary to: {OUTPUT_BY_DEPARTMENT}")
 
     if not cat_summary.empty:
-        cat_summary.to_csv(OUTPUT_BY_CATEGORY, index=False)
+        cat_summary.to_csv(OUTPUT_BY_CATEGORY, index=False, sep=';', encoding='utf-8')
         print(f"✓ Exported category summary to: {OUTPUT_BY_CATEGORY}")
 
     if not rec_summary.empty:
-        rec_summary.to_csv("summary_by_recommendation.csv", index=False)
+        rec_summary.to_csv("summary_by_recommendation.csv", index=False, sep=';', encoding='utf-8')
         print(f"✓ Exported recommendation summary to: summary_by_recommendation.csv")
 
     if not consol.empty:
-        consol.to_csv(OUTPUT_CONSOLIDATION, index=False)
+        consol.to_csv(OUTPUT_CONSOLIDATION, index=False, sep=';', encoding='utf-8')
         print(f"✓ Exported consolidation opportunities to: {OUTPUT_CONSOLIDATION}")
+
+    print(f"\n📝 All files exported with semicolon (;) delimiter for CSV safety")
 
 def load_enriched_data():
     """Load the enriched CSV file (output from enrich_vendors.py)."""
@@ -334,8 +336,9 @@ def load_enriched_data():
 
     import os
     if os.path.exists(OUTPUT_ENRICHED):
-        df = pd.read_csv(OUTPUT_ENRICHED)
+        df = pd.read_csv(OUTPUT_ENRICHED, sep=';', encoding='utf-8')
         print(f"\n✓ Loaded enriched data: {len(df)} rows from {OUTPUT_ENRICHED}")
+        print(f"   (semicolon-delimited format)")
         return df
     else:
         print(f"\n✗ Enriched file not found: {OUTPUT_ENRICHED}")

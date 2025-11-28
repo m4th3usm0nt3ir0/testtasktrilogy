@@ -5,7 +5,8 @@ This repository contains a reproducible Python workflow for analyzing vendor spe
 ## Overview
 
 - **Input**: `vendor_analysis_input.xlsx` (386 vendors, $7.89M total spend)
-- **Output**: Enriched CSV files with classifications and summary tables ready for Google Sheets
+- **Output**: Semicolon-delimited CSV files with classifications and summary tables ready for Google Sheets
+- **CSV Format**: All files use semicolon (`;`) as delimiter to prevent issues with commas in vendor names and currency values
 
 ## Quick Start
 
@@ -43,12 +44,13 @@ This script:
 
 ### 1. vendor_analysis_enriched.csv
 Full enriched dataset with all 386 vendors and these columns:
+- **Format**: Semicolon-delimited (`;`) for CSV safety
 - Original columns: Vendor Name, Last 12 months Cost (USD)
 - Enriched columns:
   - `Department`: Engineering | Facilities | G&A | Legal | M&A | Marketing | SaaS | Product | Professional Services | Sales | Support | Finance
   - `1-line Description on what the Vendor does`: ≤120 char description
   - `Suggestions (Consolidate / Terminate / Optimize costs)`: Strategic recommendation
-  - `Functional_Category`: CRM | Collaboration | Cloud Infra | etc.
+  - `Functional_Category`: CRM | Collaboration | Infrastructure | DevTools | Marketing Tools | HR/Payroll | Professional Services | Real Estate/Facilities | Insurance/Benefits | Telecommunications | Travel | Finance/Accounting | Legal Services | Other
 
 ### 2. summary_by_department.csv
 Spend breakdown by department with vendor counts and percentages.
@@ -114,14 +116,16 @@ vendor_analysis_enriched.csv (386 rows)
 
 The enrichment uses pattern matching on vendor names to classify vendors:
 
-- **Real Estate**: "properties", "tower", "spaces", "wework", etc.
+- **Infrastructure (Engineering)**: "aws", "amazon web services", "azure", "google cloud", "gcp" - Core cloud infrastructure
+- **Real Estate (Facilities)**: "properties", "tower", "spaces", "wework", etc.
 - **Professional Services**: "bdo", "rsm", "grant thornton", "advisory", "consulting", etc.
 - **Legal**: "law", "legal", "odvjetnicko", etc.
 - **M&A**: "houlihan lokey", "vector capital", etc.
-- **Insurance**: "insurance", "osiguranje", "aetna", "bupa", etc.
+- **Insurance (G&A)**: "insurance", "osiguranje", "aetna", "bupa", etc.
 - **Marketing**: "linkedin", "hubspot", "google", "cognism", etc.
-- **Travel**: "navan", "tripactions", etc.
-- **SaaS**: "aws", "salesforce", "kimble", "planful", etc.
+- **Travel (G&A)**: "navan", "tripactions", etc.
+- **SaaS**: "salesforce", "kimble", "planful", "telefonica", etc.
+- **CRM (Sales)**: "salesforce" - Customer relationship management
 
 ## Departments (from Config)
 
@@ -195,9 +199,19 @@ pip install pandas openpyxl xlrd
 ## Next Steps for Google Sheets
 
 1. Import all CSV files into Google Sheets
+   - **Important**: When importing, specify semicolon (`;`) as the delimiter
+   - File > Import > Upload > Select separator type: Semicolon
 2. Create pivot tables and charts
 3. Build "Top 3 Opportunities" dashboard
 4. Share with stakeholders
+
+## CSV Format Details
+
+All output CSV files use **semicolon (`;`) as the delimiter** instead of comma for these reasons:
+- Many vendor names contain commas (e.g., "Houlihan Lokey Advisors, Llc")
+- Currency values use commas as thousand separators (e.g., "3,117,225.89")
+- Using semicolons prevents column misalignment and import errors
+- This is standard practice in European CSV formats and fully compatible with Google Sheets and Excel
 
 ## Files in This Repository
 

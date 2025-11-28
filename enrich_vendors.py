@@ -38,7 +38,7 @@ ALLOWED_RECOMMENDATIONS = ["Terminate", "Consolidate", "Optimize"]
 FUNCTIONAL_CATEGORIES = [
     "CRM",
     "Collaboration",
-    "Cloud Infra",
+    "Infrastructure",
     "DevTools",
     "Marketing Tools",
     "HR/Payroll",
@@ -126,12 +126,12 @@ def classify_vendor(vendor_name):
         result['recommendation'] = 'Optimize'
         result['category'] = 'Real Estate/Facilities'
 
-    # === Cloud Infrastructure & SaaS ===
+    # === Cloud Infrastructure (AWS, Azure, GCP) ===
     elif any(x in name_lower for x in ['aws', 'amazon web services', 'azure', 'google cloud', 'gcp']):
-        result['department'] = 'SaaS'
+        result['department'] = 'Engineering'
         result['description'] = 'Cloud infrastructure and hosting services'
         result['recommendation'] = 'Optimize'
-        result['category'] = 'Cloud Infra'
+        result['category'] = 'Infrastructure'
 
     # === Insurance & Benefits ===
     elif any(x in name_lower for x in ['insurance', 'osiguranje', 'aetna', 'brokers', 'jensten', 'bupa', 'care health']):
@@ -356,10 +356,10 @@ def main():
     for rec, count in rec_counts.items():
         print(f"     {rec:20s}: {count:3d} vendors")
 
-    # Export
+    # Export with semicolon delimiter for CSV safety
     print(f"\n5. Exporting to {OUTPUT_FILE}...")
-    df_enriched.to_csv(OUTPUT_FILE, index=False)
-    print(f"   ✓ Exported successfully")
+    df_enriched.to_csv(OUTPUT_FILE, index=False, sep=';', encoding='utf-8')
+    print(f"   ✓ Exported successfully (semicolon-delimited)")
 
     # Display top vendors for review
     display_top_vendors(df_enriched, 50)
