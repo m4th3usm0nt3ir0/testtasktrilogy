@@ -5,8 +5,8 @@ This repository contains a reproducible Python workflow for analyzing vendor spe
 ## Overview
 
 - **Input**: `vendor_analysis_input.xlsx` (386 vendors, $7.89M total spend)
-- **Output**: Semicolon-delimited CSV files with classifications and summary tables ready for Google Sheets
-- **CSV Format**: All files use semicolon (`;`) as delimiter to prevent issues with commas in vendor names and currency values
+- **Output**: Clean, comma-delimited CSV files with classifications and summary tables ready for Google Sheets
+- **Data Cleaning**: Vendor names sanitized (commas removed), cost values as clean floats, standard CSV format
 
 ## Quick Start
 
@@ -44,7 +44,8 @@ This script:
 
 ### 1. vendor_analysis_enriched.csv
 Full enriched dataset with all 386 vendors and these columns:
-- **Format**: Semicolon-delimited (`;`) for CSV safety
+- **Format**: Standard comma-delimited CSV
+- **Data Cleaning**: Vendor names sanitized (commas removed to prevent column breaks)
 - Original columns: Vendor Name, Last 12 months Cost (USD)
 - Enriched columns:
   - `Department`: Engineering | Facilities | G&A | Legal | M&A | Marketing | SaaS | Product | Professional Services | Sales | Support | Finance
@@ -199,19 +200,32 @@ pip install pandas openpyxl xlrd
 ## Next Steps for Google Sheets
 
 1. Import all CSV files into Google Sheets
-   - **Important**: When importing, specify semicolon (`;`) as the delimiter
-   - File > Import > Upload > Select separator type: Semicolon
+   - File > Import > Upload
+   - Select separator type: Comma (standard CSV format)
 2. Create pivot tables and charts
 3. Build "Top 3 Opportunities" dashboard
 4. Share with stakeholders
 
-## CSV Format Details
+## Data Cleaning & CSV Format
 
-All output CSV files use **semicolon (`;`) as the delimiter** instead of comma for these reasons:
-- Many vendor names contain commas (e.g., "Houlihan Lokey Advisors, Llc")
-- Currency values use commas as thousand separators (e.g., "3,117,225.89")
-- Using semicolons prevents column misalignment and import errors
-- This is standard practice in European CSV formats and fully compatible with Google Sheets and Excel
+All output CSV files follow **strict data cleaning rules** for structural integrity:
+
+### Rule 1: Clean Vendor Names
+- All commas removed from vendor names before export
+- Example: "Houlihan Lokey Advisors, Llc" → "Houlihan Lokey Advisors Llc"
+- Prevents vendor names from breaking CSV column structure
+
+### Rule 2: Standard Delimiter
+- Uses standard comma (`,`) as CSV delimiter
+- Compatible with all spreadsheet applications
+
+### Rule 3: Clean Numeric Values
+- Cost column stored as clean floats without formatting
+- No currency symbols ($)
+- No thousand separators (1000.50 not 1,000.50)
+- Decimal precision preserved (e.g., 3117225.8877216)
+
+**Note:** Descriptions may contain commas and are automatically quoted by pandas for proper CSV parsing
 
 ## Files in This Repository
 

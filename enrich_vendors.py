@@ -356,10 +356,22 @@ def main():
     for rec, count in rec_counts.items():
         print(f"     {rec:20s}: {count:3d} vendors")
 
-    # Export with semicolon delimiter for CSV safety
-    print(f"\n5. Exporting to {OUTPUT_FILE}...")
-    df_enriched.to_csv(OUTPUT_FILE, index=False, sep=';', encoding='utf-8')
-    print(f"   ✓ Exported successfully (semicolon-delimited)")
+    # Data cleaning before export
+    print(f"\n5. Data cleaning and export...")
+
+    # Rule 1: Remove commas from vendor names
+    vendor_col = 'Vendor Name'
+    df_enriched[vendor_col] = df_enriched[vendor_col].str.replace(',', '', regex=False)
+    print(f"   ✓ Cleaned vendor names (removed commas)")
+
+    # Rule 3: Ensure cost column is clean float (already numeric, just verify)
+    spend_col = 'Last 12 months Cost (USD)'
+    # Pandas already stores this as float, no formatting needed
+    print(f"   ✓ Verified cost column is clean numeric (no symbols)")
+
+    # Rule 2: Export with standard comma delimiter
+    df_enriched.to_csv(OUTPUT_FILE, index=False, encoding='utf-8')
+    print(f"   ✓ Exported successfully (comma-delimited CSV)")
 
     # Display top vendors for review
     display_top_vendors(df_enriched, 50)

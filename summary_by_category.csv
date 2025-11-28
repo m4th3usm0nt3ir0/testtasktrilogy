@@ -1,14 +1,14 @@
-Functional_Category;Total_Spend_USD;Vendor_Count;Percentage
-CRM;3117225.8877216;1;39.5
-Real Estate/Facilities;1215405.3031553999;12;15.4
-Other;1002076.8442299;313;12.7
-Professional Services;814723.8481009;13;10.3
-Travel;416914.27315759996;3;5.3
-Insurance/Benefits;354815.606208;7;4.5
-Marketing Tools;251990.67664022;10;3.2
-HR/Payroll;202700.2024672;6;2.6
-Collaboration;134261.92184150498;6;1.7
-Telecommunications;115321.52495608;4;1.5
-Infrastructure;111552.2965456;2;1.4
-Legal Services;103477.043365;8;1.3
-Finance/Accounting;46894.9689248;1;0.6
+Functional_Category,Total_Spend_USD,Vendor_Count,Percentage
+CRM,3117225.8877216,1,39.5
+Real Estate/Facilities,1215405.3031553999,12,15.4
+Other,1002076.8442299,313,12.7
+Professional Services,814723.8481009,13,10.3
+Travel,416914.27315759996,3,5.3
+Insurance/Benefits,354815.606208,7,4.5
+Marketing Tools,251990.67664022,10,3.2
+HR/Payroll,202700.2024672,6,2.6
+Collaboration,134261.92184150498,6,1.7
+Telecommunications,115321.52495608,4,1.5
+Infrastructure,111552.2965456,2,1.4
+Legal Services,103477.043365,8,1.3
+Finance/Accounting,46894.9689248,1,0.6
