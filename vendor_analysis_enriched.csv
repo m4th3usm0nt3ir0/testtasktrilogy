@@ -1,0 +1,387 @@
+Vendor Name,Department,Last 12 months Cost (USD),1-line Description on what the Vendor does,Suggestions (Consolidate / Terminate / Optimize costs),Functional_Category
+Salesforce Uk Ltd-Uk,Sales,3117225.8877216,CRM and sales automation platform,Optimize,CRM
+Navan (Tripactions Inc),G&A,357983.6164072,Corporate travel management platform,Optimize,Travel
+Bdo Llp,Professional Services,343081.3853496,"Accounting, audit and advisory services",Optimize,Professional Services
+Tog Uk Properties Limited,Facilities,263821.1593744,Office space and real estate services,Optimize,Real Estate/Facilities
+Cloudcrossing Bvba,Facilities,208675.1466944,Office space and real estate services,Optimize,Real Estate/Facilities
+Zagrebtower D.O.O.,Facilities,183754.4183896,Office space and real estate services,Optimize,Real Estate/Facilities
+Innovent Spaces Private Limited,Facilities,147347.8039136,Office space and real estate services,Optimize,Real Estate/Facilities
+Weking D.O.O.,Facilities,144093.201148,Office space and real estate services,Optimize,Real Estate/Facilities
+Jensten Insurance Brokers,G&A,142699.7305688,Employee benefits and insurance services,Optimize,Insurance/Benefits
+Gpt Space & Co,Facilities,133506.776816,Office space and real estate services,Optimize,Real Estate/Facilities
+Aetna Life And Casualty Ltd,G&A,124661.4588432,Employee benefits and insurance services,Optimize,Insurance/Benefits
+Rsm Uk Corporate Finance Llp,Professional Services,117077.8757856,"Accounting, audit and advisory services",Optimize,Professional Services
+Amazon Web Services Llc,SaaS,106399.2364888,Cloud infrastructure and hosting services,Optimize,Cloud Infra
+Telefonica Global Services Gmbh,SaaS,89879.5842232,Telecommunications and connectivity services,Optimize,Telecommunications
+Hr Solution International Gmbh,G&A,80822.7573232,HR management and consulting services,Optimize,HR/Payroll
+4I Advisory Services,Professional Services,71860.3409824,Professional advisory and consulting services,Optimize,Professional Services
+Bisley Law Ltd,Legal,67414.2623224,Legal services and counsel,Optimize,Legal Services
+Infosys,Professional Services,66570.422208,IT services and technology consulting,Optimize,Professional Services
+Big Frontier Pty Ltd (Cult Of Monday),Marketing,66131.303328,Marketing and advertising services,Optimize,Marketing Tools
+Harmonic Group Limited,G&A,65417.735148,Services provided by Harmonic Group Limited,Optimize,Other
+Wework Singapore Pte. Ltd.,Facilities,64373.3640784,Office space and real estate services,Optimize,Real Estate/Facilities
+Cloud Technology Solutions Ltd,Professional Services,60661.3458128,IT services and technology consulting,Optimize,Professional Services
+"Navan, Inc",G&A,57929.2945144,Corporate travel management platform,Optimize,Travel
+Tmforum,G&A,57560.4346552,Industry association membership and events,Optimize,Other
+Linkedin Ireland Limited,Marketing,55572.6898584,Marketing and advertising platform,Optimize,Marketing Tools
+Kimble Applications Ltd,SaaS,52825.2693992,Business management and operations software,Optimize,Collaboration
+Sage Uk Limited,Finance,46894.9689248,Accounting and financial management software,Optimize,Finance/Accounting
+Grant Thornton,Professional Services,46538.5507672,"Accounting, audit and advisory services",Optimize,Professional Services
+"SveuäIliå¡Te U Zagrebu, Studentski Centar",Facilities,44299.0444792,Office space and real estate services,Optimize,Real Estate/Facilities
+Ss&C Intralinks Inc,SaaS,39966.4048632,Business management and operations software,Optimize,Collaboration
+Veniture D.O.O.,G&A,39342.1241888,Services provided by Veniture D.O.O.,Optimize,Other
+Accutrainee Limited,G&A,38840.7968008,Training and professional development services,Optimize,HR/Payroll
+Mason Frank International Ltd,G&A,38147.7208352,Recruitment and talent acquisition services,Optimize,HR/Payroll
+"Houlihan Lokey Advisors, Llc",M&A,37461.2316528,M&A advisory and investment banking services,Optimize,Professional Services
+Vector Capital Management Lp,M&A,32426.7336936,M&A advisory and investment banking services,Optimize,Professional Services
+Hubspot Ireland Limited,Marketing,32187.413904,Marketing automation and CRM platform,Optimize,Marketing Tools
+Nefron - Obrt Za Poslovne Usluge,G&A,30613.904584,Services provided by Nefron - Obrt Za Poslovne Usluge,Optimize,Other
+"Planful, Inc.",SaaS,27741.335243999998,Business management and operations software,Optimize,Collaboration
+Cognism Limited,Marketing,27013.129768,Marketing and advertising platform,Optimize,Marketing Tools
+Uberflip,Marketing,26090.98012,Marketing and advertising platform,Optimize,Marketing Tools
+Agram Life Osiguranje D.O.O.,G&A,24952.1984912,Employee benefits and insurance services,Optimize,Insurance/Benefits
+Google Ireland Limited,Marketing,24797.7750184,Marketing and advertising platform,Optimize,Marketing Tools
+Zuric I Partneri Odvjetnicko Drustvo D.O.O.,Legal,24135.4373744,Legal services and counsel,Optimize,Legal Services
+Care Health Insurance Company Limited,G&A,24044.6861392,Employee benefits and insurance services,Optimize,Insurance/Benefits
+New Star Networks(Nsn),SaaS,23886.603342399998,Telecommunications and connectivity services,Optimize,Telecommunications
+Bupa- Supplier,G&A,22799.784114399998,Employee benefits and insurance services,Optimize,Insurance/Benefits
+Shree Info System Solutions Pvt Ltd,Professional Services,22275.0370528,IT services and technology consulting,Optimize,Professional Services
+Technet It Recruitment,G&A,21952.284676,Recruitment and talent acquisition services,Optimize,HR/Payroll
+Mightyhive Ltd,Marketing,19041.6583664,Marketing and advertising platform,Optimize,Marketing Tools
+Cedar Recruitment Ltd,G&A,18537.4035192,Recruitment and talent acquisition services,Optimize,HR/Payroll
+Eurofast International Ltd-Greec,G&A,18164.1524712,Services provided by Eurofast International Ltd-Greec,Optimize,Other
+Hrvatski Telekom D.D.,G&A,18084.379208,Services provided by Hrvatski Telekom D.D.,Optimize,Other
+Sodexo Svc India Private Limited,G&A,17809.929908,Services provided by Sodexo Svc India Private Limited,Optimize,Other
+Peakon Aps,G&A,17108.0715648,Services provided by Peakon Aps,Optimize,Other
+Plus Your Business Ltd,G&A,17073.6739192,Services provided by Plus Your Business Ltd,Optimize,Other
+Benefit Systems D.O.O.,G&A,16900.2219616,Services provided by Benefit Systems D.O.O.,Optimize,Other
+Smart Group Services D.O.O.,G&A,16438.4152728,Services provided by Smart Group Services D.O.O.,Optimize,Other
+Jones Lang Lasalle (Nsw) Pty Ltd,G&A,16274.4775576,Services provided by Jones Lang Lasalle (Nsw) Pty Ltd,Optimize,Other
+"Workato, Inc.",G&A,16101.025599999999,"Services provided by Workato, Inc.",Optimize,Other
+Konzum Plus D.O.O.,G&A,15683.862664,Services provided by Konzum Plus D.O.O.,Optimize,Other
+Westbrook Advisers,G&A,15360.3784224,Services provided by Westbrook Advisers,Optimize,Other
+Work Easy Space Solutions Private Limited,Facilities,14913.209029599999,Office space and real estate services,Optimize,Real Estate/Facilities
+"Taxstudio, Ltd.",G&A,14642.419053599999,"Services provided by Taxstudio, Ltd.",Optimize,Other
+Pingo D.O.O.,G&A,14508.487795199999,Services provided by Pingo D.O.O.,Optimize,Other
+Magazin Raunalni Sistemi D.O.O.,G&A,13870.301689599999,Services provided by Magazin Raunalni Sistemi D.O.O.,Optimize,Other
+Tp Prime D.O.O.,G&A,13785.4053728,Services provided by Tp Prime D.O.O.,Optimize,Other
+Granttree Limited,G&A,13658.7927624,Services provided by Granttree Limited,Optimize,Other
+Cigna Sg,G&A,13248.9484744,Services provided by Cigna Sg,Optimize,Other
+Collards Chartered Accountants,G&A,12878.6248856,Services provided by Collards Chartered Accountants,Optimize,Other
+Bupa Australia,G&A,12462.9256792,Employee benefits and insurance services,Optimize,Insurance/Benefits
+4I Management Consulting Private Limited,Professional Services,12117.4854936,Professional advisory and consulting services,Optimize,Professional Services
+"Grad Zagreb, Gradski Ured Za Prostorno Ureä‘Enje,..",G&A,11636.650319999999,"Services provided by Grad Zagreb, Gradski Ured Za Prostorno Ureä‘Enje,..",Optimize,Other
+Bijeli Pijesak Obrt Za Poslovno Savjetovanje,G&A,11605.180133599999,Services provided by Bijeli Pijesak Obrt Za Poslovno Savjetovanje,Optimize,Other
+Ramiro D.O.O.,SaaS,11515.892628,Team collaboration and productivity platform,Consolidate,Collaboration
+Visalogic Limited,G&A,11240.7114632,Services provided by Visalogic Limited,Optimize,Other
+Poles Ltd - Hanbury Manor,G&A,10488.354448799999,Services provided by Poles Ltd - Hanbury Manor,Optimize,Other
+Shoff Darby Companies,G&A,10100.4661048,Services provided by Shoff Darby Companies,Optimize,Other
+Emerge Development Consultancy Ltd,G&A,10046.3081096,Services provided by Emerge Development Consultancy Ltd,Optimize,Other
+Performancepro,G&A,10017.765382399999,Services provided by Performancepro,Optimize,Other
+Microsoft Ireland Operations Limited,G&A,9821.625616,Services provided by Microsoft Ireland Operations Limited,Optimize,Other
+Catering Muring,G&A,9602.7980408,Services provided by Catering Muring,Optimize,Other
+Omonia D.O.O.,G&A,9558.8861528,Services provided by Omonia D.O.O.,Optimize,Other
+Outreach Corporation,G&A,9206.127319199999,Services provided by Outreach Corporation,Optimize,Other
+Cbre Limited,G&A,8395.221120799999,Services provided by Cbre Limited,Optimize,Other
+Studentski Centar - Split,Facilities,8269.3403752,Office space and real estate services,Optimize,Real Estate/Facilities
+The Guardian,G&A,8070.2731496,Services provided by The Guardian,Optimize,Other
+Intertrust Singapore Corporate Services Pte Ltd - Csc,G&A,7359.6324288,Services provided by Intertrust Singapore Corporate Services Pte Ltd - Csc,Optimize,Other
+Goto Technologies Uk Limited,G&A,7316.4524056,Services provided by Goto Technologies Uk Limited,Optimize,Other
+Hrsolution International Ag,G&A,6987.1132456,Services provided by Hrsolution International Ag,Optimize,Other
+Trello,G&A,6673.8751112,Services provided by Trello,Optimize,Other
+Obrt Sjaj Sunca,G&A,6596.297442399999,Services provided by Obrt Sjaj Sunca,Optimize,Other
+Telefã³Nica Compras Electrã³Nicas S.L.,G&A,6157.1785623999995,Services provided by Telefã³Nica Compras Electrã³Nicas S.L.,Optimize,Other
+Allianz Australia Workers' Compensation (Victoria) Limited,G&A,6098.6293784,Services provided by Allianz Australia Workers' Compensation (Victoria) Limited,Optimize,Other
+Icici Lombard Gic Ltd,G&A,5972.0167679999995,Services provided by Icici Lombard Gic Ltd,Optimize,Other
+Mosaic Concept D.O.O.,G&A,5730.501384,Services provided by Mosaic Concept D.O.O.,Optimize,Other
+Limes Plus D.O.O.,G&A,5623.6491232,Services provided by Limes Plus D.O.O.,Optimize,Other
+Mercer Limited,G&A,5443.6103824,Services provided by Mercer Limited,Optimize,Other
+Acclime Corporate Services,G&A,5412.872060799999,Services provided by Acclime Corporate Services,Optimize,Other
+Green Commute Initiative,G&A,5401.8940888,Services provided by Green Commute Initiative,Optimize,Other
+Tattu Manchester Limited,G&A,5366.0327136,Services provided by Tattu Manchester Limited,Optimize,Other
+Athlete Service Ltd,G&A,5284.7957208,Services provided by Athlete Service Ltd,Optimize,Other
+Amazon Web Services Inc.,SaaS,5153.0600568,Cloud infrastructure and hosting services,Optimize,Cloud Infra
+Telemach Hrvatska D.O.O.,G&A,5134.031572,Services provided by Telemach Hrvatska D.O.O.,Optimize,Other
+"Acclime Usa, Inc",G&A,4994.97726,"Services provided by Acclime Usa, Inc",Optimize,Other
+Centar Za Sigurnost D.O.O.,G&A,4991.3179359999995,Services provided by Centar Za Sigurnost D.O.O.,Optimize,Other
+Profi Bar D.O.O.,G&A,4916.6677264,Services provided by Profi Bar D.O.O.,Optimize,Other
+Pricewaterhousecoopers Llp,G&A,4878.6107568,Services provided by Pricewaterhousecoopers Llp,Optimize,Other
+Pinnacle Partnership Ca,G&A,4836.1625984,Services provided by Pinnacle Partnership Ca,Optimize,Other
+The Virtual Legal Counsel Ltd,Legal,4800.3012232,Legal services and counsel,Optimize,Legal Services
+Australian Payroll Professionals Pty Ltd,G&A,4399.2393128,HR management and consulting services,Optimize,HR/Payroll
+Inter Continental Chennai Mahabalipuram Resort,G&A,4392.6525296,Services provided by Inter Continental Chennai Mahabalipuram Resort,Optimize,Other
+Jetbrains S.R.O.,G&A,4083.0737191999997,Services provided by Jetbrains S.R.O.,Optimize,Other
+Crowe Horwath Revizija D.O.O.,G&A,4061.84964,Services provided by Crowe Horwath Revizija D.O.O.,Optimize,Other
+Puducherry Backwater Resort Private Limited,G&A,4055.9947216,Services provided by Puducherry Backwater Resort Private Limited,Optimize,Other
+Orionw Llc,G&A,4025.2563999999998,Services provided by Orionw Llc,Optimize,Other
+Adobe Systems Software,G&A,3928.6502464,Services provided by Adobe Systems Software,Optimize,Other
+"Common Desk, Llc",G&A,3842.2902,"Services provided by Common Desk, Llc",Optimize,Other
+Hep Elektra D.O.O.,G&A,3734.7060744,Services provided by Hep Elektra D.O.O.,Optimize,Other
+Zivi Napitak D.O.O.,G&A,3699.576564,Services provided by Zivi Napitak D.O.O.,Optimize,Other
+Gym4You D.O.O.,G&A,3692.257916,Services provided by Gym4You D.O.O.,Optimize,Other
+Aha! Labs Inc,G&A,3689.3304568,Services provided by Aha! Labs Inc,Optimize,Other
+Apple Retail Uk Ltd,G&A,3548.0805504,Services provided by Apple Retail Uk Ltd,Optimize,Other
+"Kryterion, Inc.",G&A,3541.4937672,"Services provided by Kryterion, Inc.",Optimize,Other
+Npm Inc,G&A,3534.9069839999997,Services provided by Npm Inc,Optimize,Other
+Pinsent Masons Mpillay Llp,G&A,4077.8263165000003,Services provided by Pinsent Masons Mpillay Llp,Optimize,Other
+Calm Achiever(A Unit Of Mohsin Ali Vakil),G&A,4071.0143285000004,Services provided by Calm Achiever(A Unit Of Mohsin Ali Vakil),Optimize,Other
+Pluxee India Private Limited,G&A,3994.3794635000004,Services provided by Pluxee India Private Limited,Optimize,Other
+Oâ€™Donnell Salzano Lawyers,Legal,3955.2105325,Legal services and counsel,Optimize,Legal Services
+Papertrail Inc,G&A,3899.86313,Services provided by Papertrail Inc,Optimize,Other
+Sniper Systems And Solutions Private Limited,G&A,3899.0116315,Services provided by Sniper Systems And Solutions Private Limited,Optimize,Other
+Trocadero (London) Hotel Ltd,G&A,3867.5061870000004,Services provided by Trocadero (London) Hotel Ltd,Optimize,Other
+Semrush Inc,G&A,3729.56343,Services provided by Semrush Inc,Optimize,Other
+Golubica Parking D.O.O.,G&A,3726.1574360000004,Services provided by Golubica Parking D.O.O.,Optimize,Other
+Vodafone (Australian),G&A,3671.661532,Services provided by Vodafone (Australian),Optimize,Other
+Ikea Hrvatska D.O.O.,G&A,3609.5021415,Services provided by Ikea Hrvatska D.O.O.,Optimize,Other
+Orcola D.O.O.,G&A,3544.7882555,Services provided by Orcola D.O.O.,Optimize,Other
+Info Edge India Limited,G&A,3536.2732705000003,Services provided by Info Edge India Limited,Optimize,Other
+Grad Split,G&A,3482.628865,Services provided by Grad Split,Optimize,Other
+T-Mobile,G&A,3357.4585855,Services provided by T-Mobile,Optimize,Other
+Akton D.O.O.,G&A,3253.5757685000003,Services provided by Akton D.O.O.,Optimize,Other
+Bureau Veritas Croatia D.O.O.,G&A,3199.931363,Services provided by Bureau Veritas Croatia D.O.O.,Optimize,Other
+Cici Prudential Life Insurance Co. Ltd.,G&A,3194.822372,Employee benefits and insurance services,Optimize,Insurance/Benefits
+Ncc Services Limited,G&A,3036.443651,Services provided by Ncc Services Limited,Optimize,Other
+Smartsheet Inc.,G&A,2994.7202245000003,Services provided by Smartsheet Inc.,Optimize,Other
+Good Game Global D.O.O.,G&A,2953.8482965000003,Services provided by Good Game Global D.O.O.,Optimize,Other
+Garaå¾A Firule D.O.O.,G&A,2930.0063385000003,Services provided by Garaå¾A Firule D.O.O.,Optimize,Other
+Crossland,G&A,2924.045849,Services provided by Crossland,Optimize,Other
+It London,G&A,2838.0445005,Services provided by It London,Optimize,Other
+Terrapinn Holdings Ltd,G&A,2838.0445005,Services provided by Terrapinn Holdings Ltd,Optimize,Other
+Elemental Life Solutions Llp,G&A,2806.539056,Services provided by Elemental Life Solutions Llp,Optimize,Other
+United Flow Ltd (The Goodness Project),G&A,2744.3796655,Services provided by United Flow Ltd (The Goodness Project),Optimize,Other
+Mcburneys Charted Accountants,Professional Services,2711.171224,"Accounting, audit and advisory services",Optimize,Professional Services
+Cleverland Winery Resort,G&A,2662.6358095,Services provided by Cleverland Winery Resort,Optimize,Other
+Ag Grid Ltd,G&A,2653.269326,Services provided by Ag Grid Ltd,Optimize,Other
+Lusha,G&A,2605.58541,Services provided by Lusha,Optimize,Other
+My Foodiverse Llp,G&A,2488.9301155000003,Services provided by My Foodiverse Llp,Optimize,Other
+4Imprint Direct Ltd,G&A,2436.1372085000003,Services provided by 4Imprint Direct Ltd,Optimize,Other
+City Pantry Ltd,G&A,2419.1072385,Services provided by City Pantry Ltd,Optimize,Other
+Stipe Piric,G&A,2301.6004455,Services provided by Stipe Piric,Optimize,Other
+Office Move London,G&A,2293.0854605,Services provided by Office Move London,Optimize,Other
+Pink Ribbon Shop,G&A,2250.5105355,Services provided by Pink Ribbon Shop,Optimize,Other
+Starhub Ltd (Supplier),G&A,2205.381115,Services provided by Starhub Ltd (Supplier),Optimize,Other
+N S Shastri And Co,G&A,2194.3116345000003,Services provided by N S Shastri And Co,Optimize,Other
+John Smith,G&A,2162.8061900000002,Services provided by John Smith,Optimize,Other
+Fabiola Thistlewhaite,G&A,2154.291205,Services provided by Fabiola Thistlewhaite,Optimize,Other
+Hp Inc Uk Limited,G&A,2136.4097365000002,Services provided by Hp Inc Uk Limited,Optimize,Other
+Cision Pr Newswire,G&A,2110.0132830000002,Services provided by Cision Pr Newswire,Optimize,Other
+George Anchor,G&A,2107.4587875,Services provided by George Anchor,Optimize,Other
+"Yoxel, Inc",G&A,2043.5964000000001,"Services provided by Yoxel, Inc",Optimize,Other
+Grt Hotels And Resorts P Ltd,G&A,2031.6754210000001,Services provided by Grt Hotels And Resorts P Ltd,Optimize,Other
+Apple Pty Ltd,G&A,2030.8239225000002,Services provided by Apple Pty Ltd,Optimize,Other
+Slack Technologies Limited,SaaS,1989.100496,Team collaboration and productivity platform,Consolidate,Collaboration
+G S Notary Public Limited,G&A,1935.4560905,Services provided by G S Notary Public Limited,Optimize,Other
+Apple Distribution International Ltd,G&A,1913.3171295000002,Services provided by Apple Distribution International Ltd,Optimize,Other
+Porezno Savjetniå¡Tvo Tuk D.O.O.,G&A,1812.8403065,Services provided by Porezno Savjetniå¡Tvo Tuk D.O.O.,Optimize,Other
+Susan Lee,G&A,1761.7503965,Services provided by Susan Lee,Optimize,Other
+Ansar Madovic,G&A,1731.947949,Services provided by Ansar Madovic,Optimize,Other
+"Radius Group, Inc",G&A,1722.5814655000001,"Services provided by Radius Group, Inc",Optimize,Other
+Aquila Remete D.O.O.,G&A,1706.402994,Services provided by Aquila Remete D.O.O.,Optimize,Other
+Clime India Private Limited,G&A,1678.3035435000002,Services provided by Clime India Private Limited,Optimize,Other
+"Golden Mean, Inc",G&A,1658.719078,"Services provided by Golden Mean, Inc",Optimize,Other
+Paint & Fun Vl. Martina Milkova Nikolova,G&A,1654.4615855000002,Services provided by Paint & Fun Vl. Martina Milkova Nikolova,Optimize,Other
+Carrington Communications,G&A,1654.4615855000002,Services provided by Carrington Communications,Optimize,Other
+Crayond Digital Private Limited,G&A,1645.9466005000002,Services provided by Crayond Digital Private Limited,Optimize,Other
+Studentski Centar Karlovac,Facilities,1548.8757715000002,Office space and real estate services,Optimize,Real Estate/Facilities
+Lajnap Comedy Booking D.O.O.,G&A,1536.103294,Services provided by Lajnap Comedy Booking D.O.O.,Optimize,Other
+British Telecommunications,SaaS,1492.6768705000002,Telecommunications and connectivity services,Optimize,Telecommunications
+Etm Concessions Ltd,G&A,1418.596501,Services provided by Etm Concessions Ltd,Optimize,Other
+Radisson Grt - Unit Of Hotels & Resorts Pvt Ltd,G&A,1405.8240235,Services provided by Radisson Grt - Unit Of Hotels & Resorts Pvt Ltd,Optimize,Other
+Ariba Inc,G&A,1363.2490985000002,Services provided by Ariba Inc,Optimize,Other
+Chamiers Recreation Club,G&A,1337.7041435,Services provided by Chamiers Recreation Club,Optimize,Other
+Quadrant Law Llc,Legal,1326.634663,Legal services and counsel,Optimize,Legal Services
+Docusign,G&A,1307.9016960000001,Services provided by Docusign,Optimize,Other
+Inside Edge Novated Leasing,G&A,1287.4657320000001,Services provided by Inside Edge Novated Leasing,Optimize,Other
+Rhea D.O.O.,G&A,1253.405792,Services provided by Rhea D.O.O.,Optimize,Other
+P S Recreation Club,G&A,1219.3458520000001,Services provided by P S Recreation Club,Optimize,Other
+Fastspring,G&A,1179.3254225,Services provided by Fastspring,Optimize,Other
+Dsv Solutions A/S,G&A,1162.2954525,Services provided by Dsv Solutions A/S,Optimize,Other
+Curzon Green Solicitors,G&A,1158.03796,Services provided by Curzon Green Solicitors,Optimize,Other
+Icare Nsw,G&A,1150.3744735,Services provided by Icare Nsw,Optimize,Other
+Thomas Mansfield Solicitors Limited,G&A,1135.0475005,Services provided by Thomas Mansfield Solicitors Limited,Optimize,Other
+Amazon.Co.Uk,G&A,1106.94805,Services provided by Amazon.Co.Uk,Optimize,Other
+Backoffice Associates,G&A,1079.700098,Services provided by Backoffice Associates,Optimize,Other
+Oladi D.O.O.,G&A,1064.373125,Services provided by Oladi D.O.O.,Optimize,Other
+Integrated Personnel Services,G&A,1054.155143,Services provided by Integrated Personnel Services,Optimize,Other
+Mãœller Trgovina Zagreb D.O.O.,G&A,1050.749149,Services provided by Mãœller Trgovina Zagreb D.O.O.,Optimize,Other
+Lunch Nutrition D.O.O.,G&A,1011.5802180000001,Services provided by Lunch Nutrition D.O.O.,Optimize,Other
+Winmaxi Tours & Travels,G&A,1001.362236,Corporate travel management platform,Optimize,Travel
+Digitalna Produkcija J.D.O.O.,G&A,992.847251,Services provided by Digitalna Produkcija J.D.O.O.,Optimize,Other
+Computershare-Caboodle Technology Limited,Professional Services,980.926272,IT services and technology consulting,Optimize,Professional Services
+Allianz Wa,G&A,970.70829,Services provided by Allianz Wa,Optimize,Other
+Trending Technology Services Gmbh,Professional Services,961.3418065000001,IT services and technology consulting,Optimize,Professional Services
+"Godaddy.Com, Llc",G&A,923.0243740000001,"Services provided by Godaddy.Com, Llc",Optimize,Other
+Time Out Group,G&A,920.4698785,Services provided by Time Out Group,Optimize,Other
+Raiffeisenbank Austria D.D.,G&A,919.61838,Services provided by Raiffeisenbank Austria D.D.,Optimize,Other
+Galop-Prijevoz D.O.O.,G&A,907.697401,Services provided by Galop-Prijevoz D.O.O.,Optimize,Other
+Lane Ip Limited,G&A,851.4985,Services provided by Lane Ip Limited,Optimize,Other
+Urbani Eventi D.O.O.,G&A,850.6470015000001,Services provided by Urbani Eventi D.O.O.,Optimize,Other
+Smashing Media Ag,Marketing,849.795503,Marketing and advertising services,Optimize,Marketing Tools
+Epignosis Llc,G&A,832.765533,Services provided by Epignosis Llc,Optimize,Other
+Croatia Airlines,G&A,831.9140345000001,Services provided by Croatia Airlines,Optimize,Other
+Bb Football Scouting J.D.O.O.,G&A,822.547551,Services provided by Bb Football Scouting J.D.O.O.,Optimize,Other
+Boe Croatia D.O.O.,G&A,814.0325660000001,Services provided by Boe Croatia D.O.O.,Optimize,Other
+Potomac D.O.O.,G&A,805.5175810000001,Services provided by Potomac D.O.O.,Optimize,Other
+"President Hotel And Tower Co., Ltd",Facilities,802.9630855,Office space and real estate services,Optimize,Real Estate/Facilities
+Friends Sports Club,G&A,797.002596,Services provided by Friends Sports Club,Optimize,Other
+The Cycle Gap Adyar,G&A,765.4971515000001,Services provided by The Cycle Gap Adyar,Optimize,Other
+Apple - Amer,G&A,763.7941545,Services provided by Apple - Amer,Optimize,Other
+Klg - Kalra Legal Group,Legal,681.1988,Legal services and counsel,Optimize,Legal Services
+Kilgannon & Partners Llp,G&A,681.1988,Services provided by Kilgannon & Partners Llp,Optimize,Other
+Uk Postbox Limited,G&A,670.1293195000001,Services provided by Uk Postbox Limited,Optimize,Other
+Catering Iviä‡ D.O.O.,G&A,669.277821,Services provided by Catering Iviä‡ D.O.O.,Optimize,Other
+Blink Events,G&A,664.1688300000001,Services provided by Blink Events,Optimize,Other
+Grafo-Jan,G&A,662.4658330000001,Services provided by Grafo-Jan,Optimize,Other
+Mesa Verde,G&A,662.4658330000001,Services provided by Mesa Verde,Optimize,Other
+Pixsy Inc,G&A,613.07892,Services provided by Pixsy Inc,Optimize,Other
+Dun & Bradstreet D.O.O.,G&A,609.6729260000001,Services provided by Dun & Bradstreet D.O.O.,Optimize,Other
+Induslaw,Legal,596.04895,Legal services and counsel,Optimize,Legal Services
+Trans-Agram Obrt Za Dostavu,G&A,580.721977,Services provided by Trans-Agram Obrt Za Dostavu,Optimize,Other
+Landu Law Solicitors,Legal,567.9494995,Legal services and counsel,Optimize,Legal Services
+Arena Center Zagreb D.O.O.,G&A,567.0980010000001,Services provided by Arena Center Zagreb D.O.O.,Optimize,Other
+Obrt Za Ugostiteljstvo Mirakul,G&A,565.3950040000001,Services provided by Obrt Za Ugostiteljstvo Mirakul,Optimize,Other
+Oakberry Jr D.O.O.,G&A,534.7410580000001,Services provided by Oakberry Jr D.O.O.,Optimize,Other
+Tau On-Line D.O.O.,G&A,533.8895595,Services provided by Tau On-Line D.O.O.,Optimize,Other
+Magic Mountain Saloon,G&A,523.6715775,Services provided by Magic Mountain Saloon,Optimize,Other
+Hotel Zonar,G&A,522.8200790000001,Services provided by Hotel Zonar,Optimize,Other
+Roto Dinamic D.O.O.,G&A,511.7505985,Services provided by Roto Dinamic D.O.O.,Optimize,Other
+Tm Forum,G&A,510.04760150000004,Industry association membership and events,Optimize,Other
+Marvie Hotel - Krupa D.O.O.,G&A,501.5326165,Services provided by Marvie Hotel - Krupa D.O.O.,Optimize,Other
+Merchandise Ltd,G&A,490.463136,Services provided by Merchandise Ltd,Optimize,Other
+Yellow Submarine D.O.O.,G&A,486.2056435,Services provided by Yellow Submarine D.O.O.,Optimize,Other
+Streamlinereforms Inc,G&A,482.79964950000004,Services provided by Streamlinereforms Inc,Optimize,Other
+Make And Grow Ltd,G&A,482.79964950000004,Services provided by Make And Grow Ltd,Optimize,Other
+Obiteljski Hoteli D.O.O.,G&A,474.2846645,Services provided by Obiteljski Hoteli D.O.O.,Optimize,Other
+Rudan D.O.O.,G&A,472.58166750000004,Services provided by Rudan D.O.O.,Optimize,Other
+Entrio Tehnologije D.O.O.,G&A,472.58166750000004,Services provided by Entrio Tehnologije D.O.O.,Optimize,Other
+Vivat Fina Vina D.O.O.,G&A,466.62117800000004,Services provided by Vivat Fina Vina D.O.O.,Optimize,Other
+"Figma, Inc.",G&A,459.80919,"Services provided by Figma, Inc.",Optimize,Other
+E-Disti D.O.O.,G&A,458.106193,Services provided by E-Disti D.O.O.,Optimize,Other
+Greencell Express Private Limited,G&A,457.2546945,Services provided by Greencell Express Private Limited,Optimize,Other
+Edwardian Pastoria Hotels Ltd (The Londoner),G&A,433.41273650000005,Services provided by Edwardian Pastoria Hotels Ltd (The Londoner),Optimize,Other
+Tiganda J.D.O.O.,G&A,431.7097395,Services provided by Tiganda J.D.O.O.,Optimize,Other
+"Franklin, Gringer & Cohen, P.C.",G&A,426.6007485,"Services provided by Franklin, Gringer & Cohen, P.C.",Optimize,Other
+Blitz - Cinestar D.O.O.,G&A,425.74925,Services provided by Blitz - Cinestar D.O.O.,Optimize,Other
+Lancefield Bus Service,G&A,412.12527400000005,Services provided by Lancefield Bus Service,Optimize,Other
+Super Odrediå¡Te D.O.O.,G&A,378.065334,Services provided by Super Odrediå¡Te D.O.O.,Optimize,Other
+Pmi Global Operations Center,G&A,378.065334,Services provided by Pmi Global Operations Center,Optimize,Other
+Student Packers & Movers,G&A,371.253346,Services provided by Student Packers & Movers,Optimize,Other
+Del Posto D.O.O.,G&A,363.58985950000005,Services provided by Del Posto D.O.O.,Optimize,Other
+Inicijativa Centar Za Edukaciju,G&A,357.62937,Services provided by Inicijativa Centar Za Edukaciju,Optimize,Other
+Niva Transport J.D.O.O.,G&A,357.62937,Services provided by Niva Transport J.D.O.O.,Optimize,Other
+Doctor Anywhere Operations Pte Ltd,G&A,346.5598895,Services provided by Doctor Anywhere Operations Pte Ltd,Optimize,Other
+Spar Hrvatska D.O.O.,G&A,340.5994,Services provided by Spar Hrvatska D.O.O.,Optimize,Other
+Pepe'S Italian And Liquor,G&A,338.896403,Services provided by Pepe'S Italian And Liquor,Optimize,Other
+"Pluralsight, Llc",G&A,318.460439,"Services provided by Pluralsight, Llc",Optimize,Other
+Maniax Melbourne Cbd,G&A,315.05444500000004,Services provided by Maniax Melbourne Cbd,Optimize,Other
+Dnsimple,G&A,311.648451,Services provided by Dnsimple,Optimize,Other
+Treci Posao D.O.O.,G&A,307.3909585,Services provided by Treci Posao D.O.O.,Optimize,Other
+Gaucho Restaurants,G&A,302.2819675,Services provided by Gaucho Restaurants,Optimize,Other
+Formswift,G&A,301.430469,Services provided by Formswift,Optimize,Other
+Safestore Ltd,G&A,286.9549945,Services provided by Safestore Ltd,Optimize,Other
+Split Tech City,G&A,283.54900050000003,Services provided by Split Tech City,Optimize,Other
+National Securities Depository Limited(Nsdl),G&A,280.994505,Services provided by National Securities Depository Limited(Nsdl),Optimize,Other
+Adamma Info Services Private Limited,G&A,273.3310185,Services provided by Adamma Info Services Private Limited,Optimize,Other
+The Riding House Cafe,G&A,264.8160335,Services provided by The Riding House Cafe,Optimize,Other
+Stillmark Zagreb D.O.O.,G&A,263.1130365,Services provided by Stillmark Zagreb D.O.O.,Optimize,Other
+Lastpass Ireland Limited,G&A,263.1130365,Services provided by Lastpass Ireland Limited,Optimize,Other
+Taste Of Health,G&A,258.855544,Services provided by Taste Of Health,Optimize,Other
+Infodata,G&A,240.97407550000003,Services provided by Infodata,Optimize,Other
+Amazon (Aus),G&A,233.31058900000002,Services provided by Amazon (Aus),Optimize,Other
+Regency Hampers Ltd,G&A,247.877645215,Services provided by Regency Hampers Ltd,Optimize,Other
+Bella Operation A/S,G&A,240.505819335,Services provided by Bella Operation A/S,Optimize,Other
+The Plant Man,G&A,234.976949925,Services provided by The Plant Man,Optimize,Other
+Media Promo Plus D.O.O.,Marketing,225.762167575,Marketing and advertising services,Optimize,Marketing Tools
+Expert-Ing D.O.O.,G&A,224.84068934,Services provided by Expert-Ing D.O.O.,Optimize,Other
+Atlassian Pty Ltd,SaaS,223.91921110500002,Team collaboration and productivity platform,Consolidate,Collaboration
+Djs For U,G&A,220.233298165,Services provided by Djs For U,Optimize,Other
+Freepik Company,G&A,202.72521170000002,Services provided by Freepik Company,Optimize,Other
+Nastavni Zavod Za Javno Zdravstvo Dr. Andrija Å Tampar,G&A,199.03929876,Services provided by Nastavni Zavod Za Javno Zdravstvo Dr. Andrija Å Tampar,Optimize,Other
+Rishi Events And Entainment,G&A,198.117820525,Services provided by Rishi Events And Entainment,Optimize,Other
+Kosmaz Technologies Croatia,G&A,195.35338582,Services provided by Kosmaz Technologies Croatia,Optimize,Other
+Dhl,G&A,190.745994645,Services provided by Dhl,Optimize,Other
+Hotel Laguna D.D.,G&A,189.82451641,Services provided by Hotel Laguna D.D.,Optimize,Other
+Bigshare Services Private Limited,G&A,187.98155994,Services provided by Bigshare Services Private Limited,Optimize,Other
+Zettanet,G&A,183.374168765,Services provided by Zettanet,Optimize,Other
+Hahn Air,G&A,183.374168765,Services provided by Hahn Air,Optimize,Other
+Vitality Works,G&A,181.53121229500002,Services provided by Vitality Works,Optimize,Other
+Avoxi Inc,G&A,177.845299355,Services provided by Avoxi Inc,Optimize,Other
+Zapier Inc.,G&A,166.787560535,Services provided by Zapier Inc.,Optimize,Other
+"Solarwinds, Inc",G&A,165.86608230000002,"Services provided by Solarwinds, Inc",Optimize,Other
+Xenon Savjetovanje D.O.O.,G&A,164.02312583,Services provided by Xenon Savjetovanje D.O.O.,Optimize,Other
+Floom Ltd,G&A,162.18016936,Services provided by Floom Ltd,Optimize,Other
+Notino S.R.O.,G&A,161.258691125,Services provided by Notino S.R.O.,Optimize,Other
+"Paint&Wine, Vl. Stevo Dosen",G&A,159.415734655,"Services provided by Paint&Wine, Vl. Stevo Dosen",Optimize,Other
+Parcelforce Worldwide,G&A,154.80834348000002,Services provided by Parcelforce Worldwide,Optimize,Other
+Advena,G&A,153.886865245,Services provided by Advena,Optimize,Other
+Hrvatski Nezavisnici Izvoznici Softvera,G&A,153.886865245,Services provided by Hrvatski Nezavisnici Izvoznici Softvera,Optimize,Other
+Monile J.D.O.O.,G&A,152.043908775,Services provided by Monile J.D.O.O.,Optimize,Other
+Puzzle Promotion J.D.O.O.,G&A,142.829126425,Services provided by Puzzle Promotion J.D.O.O.,Optimize,Other
+ZagrebaäKi Holding D.O.O.,G&A,142.829126425,Services provided by ZagrebaäKi Holding D.O.O.,Optimize,Other
+Event Ors,G&A,142.829126425,Services provided by Event Ors,Optimize,Other
+Sportkart D.O.O.,G&A,140.986169955,Services provided by Sportkart D.O.O.,Optimize,Other
+"Interaction Design Foundation, Inc",G&A,138.22173525,"Services provided by Interaction Design Foundation, Inc",Optimize,Other
+(Blank),G&A,137.300257015,Services provided by (Blank),Optimize,Other
+Escape Art D.O.O.,G&A,132.69286584,Services provided by Escape Art D.O.O.,Optimize,Other
+Fero-Term,G&A,130.84990937,Services provided by Fero-Term,Optimize,Other
+Ustanova Za Zdravstvenu Skrb P.P.,G&A,130.84990937,Services provided by Ustanova Za Zdravstvenu Skrb P.P.,Optimize,Other
+Vistaprint,G&A,129.928431135,Services provided by Vistaprint,Optimize,Other
+Teb Poslovno Savjetovanje D.O.O.,G&A,129.00695290000002,Services provided by Teb Poslovno Savjetovanje D.O.O.,Optimize,Other
+Illunis D.O.O.,G&A,128.085474665,Services provided by Illunis D.O.O.,Optimize,Other
+The Cook Kitchen,G&A,122.55660525500001,Services provided by The Cook Kitchen,Optimize,Other
+Australian Taxation Office (Ato),G&A,122.55660525500001,Services provided by Australian Taxation Office (Ato),Optimize,Other
+Capitol Services,G&A,119.79217055000001,Services provided by Capitol Services,Optimize,Other
+Bonus Opinio D.O.O.,G&A,119.79217055000001,Services provided by Bonus Opinio D.O.O.,Optimize,Other
+Dhl Express (Uk) Ltd,G&A,118.870692315,Services provided by Dhl Express (Uk) Ltd,Optimize,Other
+Kat'S Kitchen D.O.O.,G&A,118.870692315,Services provided by Kat'S Kitchen D.O.O.,Optimize,Other
+Soho Kitchen Ltd,G&A,104.12704055500001,Services provided by Soho Kitchen Ltd,Optimize,Other
+Fortis Trade J.D.O.O.,G&A,94.912258205,Services provided by Fortis Trade J.D.O.O.,Optimize,Other
+Till Trade D.O.O.,G&A,93.06930173500001,Services provided by Till Trade D.O.O.,Optimize,Other
+Pret A Manger,G&A,92.1478235,Services provided by Pret A Manger,Optimize,Other
+Axil Coffee Roasters,G&A,89.383388795,Services provided by Axil Coffee Roasters,Optimize,Other
+Pepco Croatia D.O.O.,G&A,89.383388795,Services provided by Pepco Croatia D.O.O.,Optimize,Other
+Lemia D.O.O.,G&A,87.540432325,Services provided by Lemia D.O.O.,Optimize,Other
+Retriever Llc,G&A,87.540432325,Services provided by Retriever Llc,Optimize,Other
+Meluba Limited,G&A,87.540432325,Services provided by Meluba Limited,Optimize,Other
+London Waste Management,G&A,85.69747585500001,Services provided by London Waste Management,Optimize,Other
+Hilton Garden Inn - Zagreb City Hotels D.O.O.,G&A,82.011562915,Services provided by Hilton Garden Inn - Zagreb City Hotels D.O.O.,Optimize,Other
+Lider Media D.O.O.,Marketing,80.16860644500001,Marketing and advertising services,Optimize,Marketing Tools
+Uptime Robot Service Provider Ltd,G&A,78.325649975,Services provided by Uptime Robot Service Provider Ltd,Optimize,Other
+Mithras Consultants,G&A,77.40417174000001,Services provided by Mithras Consultants,Optimize,Other
+6Sense Insights Inc,G&A,75.56121527,Services provided by 6Sense Insights Inc,Optimize,Other
+Ico,G&A,67.26791115500001,Services provided by Ico,Optimize,Other
+Sportska Udruga Split,G&A,66.34643292,Services provided by Sportska Udruga Split,Optimize,Other
+Prezzee,G&A,63.581998215000006,Services provided by Prezzee,Optimize,Other
+Inet Telecoms Ltd.,SaaS,62.660519980000004,Telecommunications and connectivity services,Optimize,Telecommunications
+Wolt Enterprises Oy,G&A,61.739041745,Services provided by Wolt Enterprises Oy,Optimize,Other
+Platinum Office D.O.O.,G&A,61.739041745,Services provided by Platinum Office D.O.O.,Optimize,Other
+Snappy Snaps,G&A,58.97460704,Services provided by Snappy Snaps,Optimize,Other
+New Block D.O.O.,G&A,56.210172335,Services provided by New Block D.O.O.,Optimize,Other
+Cayman Islands Government,G&A,56.210172335,Services provided by Cayman Islands Government,Optimize,Other
+Officeworks,G&A,56.210172335,Services provided by Officeworks,Optimize,Other
+Click Send Pty Ltd,G&A,55.2886941,Services provided by Click Send Pty Ltd,Optimize,Other
+Kall Kwik Centre 565,G&A,55.2886941,Services provided by Kall Kwik Centre 565,Optimize,Other
+Shilton Hospitality Llp,G&A,55.2886941,Services provided by Shilton Hospitality Llp,Optimize,Other
+Axosoft Gitkraken,G&A,54.367215865,Services provided by Axosoft Gitkraken,Optimize,Other
+Istra Wine,G&A,53.44573763,Services provided by Istra Wine,Optimize,Other
+Gophr,G&A,51.60278116,Services provided by Gophr,Optimize,Other
+Pan-Pek D.O.O.,G&A,49.75982469,Services provided by Pan-Pek D.O.O.,Optimize,Other
+Uber *Eats,G&A,49.75982469,Services provided by Uber *Eats,Optimize,Other
+Fedex Express Uk Transportation Ltd,G&A,46.995389985,Services provided by Fedex Express Uk Transportation Ltd,Optimize,Other
+Garden City D.O.O.,G&A,45.152433515,Services provided by Garden City D.O.O.,Optimize,Other
+Livingstone,G&A,40.54504234,Services provided by Livingstone,Optimize,Other
+Ekupi D.O.O.,G&A,39.623564105,Services provided by Ekupi D.O.O.,Optimize,Other
+Farmacia - Specijalizirana Prodavaonica D.O.O.,G&A,35.937651165,Services provided by Farmacia - Specijalizirana Prodavaonica D.O.O.,Optimize,Other
+Cupcake Central (Life Is Sweet Bakery),G&A,35.01617293,Services provided by Cupcake Central (Life Is Sweet Bakery),Optimize,Other
+Post Office Ltd,G&A,32.251738225000004,Services provided by Post Office Ltd,Optimize,Other
+Currys Pc World,G&A,30.408781755,Services provided by Currys Pc World,Optimize,Other
+Brodomerkur D.D.,G&A,28.565825285000003,Services provided by Brodomerkur D.D.,Optimize,Other
+Sport Vision D.O.O.,G&A,25.80139058,Services provided by Sport Vision D.O.O.,Optimize,Other
+Harissa D.O.O.,G&A,21.193999405,Services provided by Harissa D.O.O.,Optimize,Other
+Specijalisticka Ordinacija Medicine Rada I Sporta Ina Kardos,G&A,20.27252117,Services provided by Specijalisticka Ordinacija Medicine Rada I Sporta Ina Kardos,Optimize,Other
+Specijalisticka Ordinacija Medicine Rada Helena Blazic,G&A,20.27252117,Services provided by Specijalisticka Ordinacija Medicine Rada Helena Blazic,Optimize,Other
+Ustanova Za Medicinu Rada I Sporta Dr. Novacki,G&A,20.27252117,Services provided by Ustanova Za Medicinu Rada I Sporta Dr. Novacki,Optimize,Other
+M&S Simply Food,G&A,19.351042935000002,Services provided by M&S Simply Food,Optimize,Other
+Bakemono Bakers Melbourne,G&A,18.4295647,Services provided by Bakemono Bakers Melbourne,Optimize,Other
+Coles,G&A,17.508086465,Services provided by Coles,Optimize,Other
